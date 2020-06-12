@@ -1,7 +1,6 @@
 package com.example.cj.springboot.starter.hbase;
 
 import org.apache.hadoop.hbase.HBaseConfiguration;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
